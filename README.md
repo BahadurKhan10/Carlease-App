@@ -47,7 +47,7 @@ Browse available car listings and filter them with multiple criteria.
 Manage listings, view personalized suggestions, and update user settings.
 
 <p align="center">
-  <img src="screenshots/img12.png" width="250" />
+  <img src="screenshots/img12.png" width="250" /> 
   <img src="screenshots/img4.png" width="250" />
   <img src="screenshots/img5.png" width="250" />
 </p>
