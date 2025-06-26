@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="screenshots/black_logo.png" width="200" alt="App Logo" />
+  <img src="screenshots/black_logo.png" width="300" alt="App Logo" />
 </p>
 
-# 🚗 MyNextCarLease (Flutter Mobile App)
+#MyNextCarLease (Flutter Mobile App)
 
 A feature-rich car leasing mobile application built using **Flutter**, designed to connect car sellers and buyers with a modern, user-friendly interface. The app allows sellers to list vehicles while buyers can **filter and browse cars using 8–9 search criteria** such as price, model, mileage, transmission, fuel type, and more.
 
