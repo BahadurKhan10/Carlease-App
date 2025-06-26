@@ -33,24 +33,23 @@ Browse available car listings and filter them with multiple criteria.
 
 ---
 
-#### 📄 Car Detail Pages  
-Reported Price + Chat Interface + Vehicle View Tracking
+#### 📄 Find Car & Detail Pages  
 
 <p align="center">
-  <img src="screenshots/img2.png" width="250" />
-  <img src="screenshots/img9.png" width="250" />
-  <img src="screenshots/img12.png" width="250" />
+  <img src="screenshots/img3.png" width="250" />
+  <img src="screenshots/img6.png" width="250" />
+  <img src="screenshots/img8.png" width="250" />
 </p>
 
 ---
 
-#### 🧑 Seller Dashboard, 🎯 "For You" Page, 👤 Profile Page  
+#### 🧑 Car owner Dashboard, 👤 Profile Page  
 Manage listings, view personalized suggestions, and update user settings.
 
 <p align="center">
-  <img src="screenshots/img7.png" width="250" />
+  <img src="screenshots/img12.png" width="250" />
   <img src="screenshots/img4.png" width="250" />
-  <img src="screenshots/img13.png" width="250" />
+  <img src="screenshots/img5.png" width="250" />
 </p>
 
 ---
