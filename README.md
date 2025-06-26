@@ -58,7 +58,7 @@ Manage listings, view personalized suggestions, and update user settings.
 
 - Fully separate mobile Flutter application
 - Advanced filtering and car search features
-- In-app chat and AI-powered image filtering
+- In-app chat and messaging
 - Real-time support and listing management
 - Vehicle view tracking system
 - AWS S3 for image handling and EC2 for deployment
