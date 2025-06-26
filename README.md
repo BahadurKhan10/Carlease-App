@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/black-logo.png" width="200" alt="App Logo" />
+  <img src="screenshots/black_logo.png" width="200" alt="App Logo" />
 </p>
 
 # 🚗 MyNextCarLease (Flutter Mobile App)
@@ -26,7 +26,8 @@ Browse available car listings and filter them with multiple criteria.
 
 <p align="center">
   <img src="screenshots/img1.png" width="300" />
-  <img src="screenshots/img8.png" width="300" />
+  <img src="screenshots/img10.png" width="300" />
+  <img src="screenshots/img11.png" width="300" />
 </p>
 
 ---
