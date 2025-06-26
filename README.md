@@ -25,9 +25,10 @@ The backend is powered by **Node.js**, while images are stored on **AWS S3** and
 Browse available car listings and filter them with multiple criteria.
 
 <p align="center">
-  <img src="screenshots/img1.png" width="300" />
-  <img src="screenshots/img10.png" width="300" />
-  <img src="screenshots/img11.png" width="300" />
+  <img src="screenshots/img1.png" width="250" />
+  <img src="screenshots/img11.png" width="250" />
+  <img src="screenshots/img10.png" width="250" />
+
 </p>
 
 ---
